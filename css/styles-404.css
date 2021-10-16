@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+
+:root {
+  --lightBlack: #2e2e2e;
+  --offWhite: #e5e5e5;
+  --maroon: #763841;
+  --lightGrey: #d8d8d8;
+  --midGrey: #999999;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  min-height: 100vh;
+  background-image: linear-gradient(125deg, var(--offWhite), var(--maroon));
+}
+
+.container-404 {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  color: var(--lightBlack);
+}
+
+.container-404 h1 {
+  font-size: 160px;
+  margin: 0;
+  font-weight: 900;
+  letter-spacing: 20px;
+  background-color: var(--lightGrey);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.container-404 p {
+  font-size: 20px;
+}
+
+.container-404 a {
+  text-decoration: none;
+  background: #763841aa;
+  color: var(--offWhite);
+  padding: 12px 24px;
+  display: inline-block;
+  border-radius: 25px;
+  font-size: 14px;
+  text-transform: uppercase;
+  transition: 0.4s;
+}
+
+.container-404 a:hover {
+  background: var(--maroon);
+}
