@@ -1,14 +1,18 @@
 <h1 align="center">
-  <img width="250" src="./images/AnimatedZeek.png" alt="Monkey Icon" />
+  <img width="250" src="./images/AnimatedZeek.png" alt="animated photo" />
 
 My Portfolio Website
 
 </h1>
 
 <h4 align="center">
-  This is a single page personal portfolio website I built to showcase some of the projects I've developed. 
+  This is a single page personal portfolio website I built and hosted with Netlify to showcase some of the projects I've developed. 
 </h4>
 <br>
+
+##
+
+<p align="center">Vist <a href="https://www.zeekcollins.com">ZeekCollins.com</a> to view my portfolio.</p>
 
 ## :eyes: Visuals
 
