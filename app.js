@@ -283,9 +283,9 @@ $(document).ready(() => {
     });
 });
 
-window.onresize = () => {
-    location.reload();
-}
+// window.onresize = () => {
+//     location.reload();
+// }
 
 function flipSE(pageId) {
   const currPage = document.querySelector(".categories .category.is-active");
