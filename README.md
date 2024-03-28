@@ -18,7 +18,7 @@ My Portfolio Website
 
 <p align="center">
 
-  <img src="./images/portfolio.gif" width="750" />
+  <img src="./images/updated-portfolio.gif" width="750" />
 </p>
 
 ## :exclamation: About
