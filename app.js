@@ -72,7 +72,7 @@ $(document).ready(() => {
 
   const projectSources = [
     "https://github.com/zeekcollins/See-N-Say",
-    "https://spotifyapi-app.herokuapp.com/",
+    "https://zeekcollins.github.io/SpotifyAPI_app",
     "https://zeekcollins.github.io/SimonGameChallenge/",
     "https://github.com/zeekcollins/Minesweeper"
   ];

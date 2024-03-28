@@ -668,7 +668,7 @@ section {
   }
 
   .inward {
-    margin-left: 10%;
+    margin-left: 5%;
 
     p {
       margin-bottom: 3%;
@@ -1339,6 +1339,7 @@ footer {
           }
 
           .bullet {
+            align-items: end;
             img {
               width: 12px;
             }
@@ -1521,7 +1522,6 @@ footer {
   #se-page {
     .container .row {
       justify-content: center;
-      align-items: center;
       position: relative;
 
       .skills-title {
