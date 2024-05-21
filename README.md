@@ -18,12 +18,12 @@ My Portfolio Website
 
 <p align="center">
 
-  <img src="./images/updated-portfolio.gif" width="750" />
+  <img src="./images/portfolio.gif" width="750" />
 </p>
 
 ## :exclamation: About
 
-At the time of creating this site (Summer '21), I was a new grad software engineer. I figured it'd be a good idea to build and deploy a web app that peers or recruiters could see to get a good idea of who I am, what I do, how I work. After gaining some industry experience, I've updated the information on the site, but the aesthetics all stayed the same. I'm planning on making a v2 version sometime soon. If you have any feedback, it's always welcomed.
+At the time of creating this site (Summer '21), I am a new grad software engineer. I figured it'd be a good idea to build and deploy a web app that peers or recruiters could see to get a good idea of who I am, what I do, how I work. If you have any feedback, it's always welcomed.
 
 ## :rocket: Technologies
 

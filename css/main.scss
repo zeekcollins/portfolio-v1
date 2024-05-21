@@ -668,7 +668,7 @@ section {
   }
 
   .inward {
-    margin-left: 5%;
+    margin-left: 10%;
 
     p {
       margin-bottom: 3%;
@@ -1339,7 +1339,6 @@ footer {
           }
 
           .bullet {
-            align-items: end;
             img {
               width: 12px;
             }
@@ -1522,6 +1521,7 @@ footer {
   #se-page {
     .container .row {
       justify-content: center;
+      align-items: center;
       position: relative;
 
       .skills-title {
@@ -1793,6 +1793,7 @@ footer {
           a.resume {
             width: fit-content;
             font-size: 1.05rem;
+            margin-top: 75px;
             padding: 10px;
             border: 2px solid var(--maroon);
             border-radius: 5px;

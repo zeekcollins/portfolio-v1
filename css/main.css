@@ -1682,6 +1682,7 @@ footer .social-header ul li img {
             justify-content: center;
     -webkit-box-align: center;
         -ms-flex-align: center;
+            align-items: center;
     position: relative;
   }
   #se-page .container .row .skills-title {
@@ -1975,6 +1976,7 @@ footer .social-header ul li img {
     width: -moz-fit-content;
     width: fit-content;
     font-size: 1.05rem;
+    margin-top: 75px;
     padding: 10px;
     border: 2px solid var(--maroon);
     border-radius: 5px;
