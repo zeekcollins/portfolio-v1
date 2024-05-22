@@ -12,7 +12,7 @@ My Portfolio Website
 
 ##
 
-<p align="center">Vist <a href="https://www.zeekcollins.com">ZeekCollins.com</a> to view my portfolio.</p>
+<p align="center">Vist <a href="https://storied-marzipan-9bf60a.netlify.app/">Here</a> to view my portfolio.</p>
 
 ## :eyes: Visuals
 
